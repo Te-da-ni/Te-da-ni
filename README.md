@@ -16,6 +16,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Te-da-ni&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Te-da-ni&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Te-da-ni&icon=2&color=green)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
